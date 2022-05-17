@@ -11,5 +11,5 @@ Tecnologias que uso no dia a dia.
 [![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 
-![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=compact)](https://github.com/robertoamato/github-readme-stats)
+![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=compact)](https://github.com/robertoamato/github-readme-stats)
+
