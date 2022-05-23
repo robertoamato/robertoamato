@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Roberto 🤚
 
 
-[![Wattsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5511962060007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robertoamatoz@gmail.com)
+ <a href="https://wa.me/5511973575621%22%3E<img
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+            target="_blank"></a>
+<a href = "mailto:robertoamatoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Tecnologias que uso no dia a dia.
 
