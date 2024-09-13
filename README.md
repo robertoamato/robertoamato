@@ -17,3 +17,5 @@ Tecnologias que uso no dia a dia.
 
 ![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=compact)](https://github.com/robertoamato/github-readme-stats)
 
+![snake gif](https://github.com/robertoamato/robertoamato/blob/output/github-contribution-grid-snake.gif)
+
