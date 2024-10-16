@@ -4,7 +4,7 @@
  <a href="https://wa.me/5511962060007"><img
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
             target="_blank"></a>
-<a href = "mailto:robertoamatoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white target="_blank"></a>
+<a href = "mailto:robertoamatoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white target=_blank"></a>
 
 Tecnologias que uso no dia a dia.
 
