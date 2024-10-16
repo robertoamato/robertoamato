@@ -15,7 +15,6 @@ Tecnologias que uso no dia a dia.
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()<br>
 ![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=synthwave)<br>
 
-### Snake Eating My Contributions
-![Snake animation](https://github.com/robertoamato/robertoamato/blob/output/github-contribution-grid-snake.svg)
+
 
 
