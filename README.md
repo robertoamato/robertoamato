@@ -13,8 +13,19 @@ Tecnologias que uso no dia a dia.
 [![Angular](	https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()<br>
-![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=synthwave)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=synthwave" alt="Roberto Amato GitHub stats">
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=donut" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
