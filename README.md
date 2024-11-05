@@ -14,7 +14,7 @@ Tecnologias que uso no dia a dia.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()<br>
 ![Roberto Amato GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoamato&show_icons=true&theme=synthwave)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoamato&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
