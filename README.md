@@ -35,6 +35,10 @@
   </table>
 </div>
 
+### Snake eating my commits:
+![Snake animation](https://github.com/robertoamato/robertoamato/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
