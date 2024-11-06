@@ -4,10 +4,10 @@ on:
   # A cada vez que o usuário fizer "push" ou "pull_request", o workflow será acionado
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
   # Também agenda a execução a cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
