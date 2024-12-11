@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+eu+sou+o+Roberto;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+eu+sou+o+Roberto;Sejam+todos+Bem+vindos!)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://wa.me/5511962060007" target="_blank">
