@@ -1,4 +1,4 @@
-### Olá! Eu sou o Roberto 🤚
+[![Typing SVG](https://readme-typing-svg.demolab.com/Olá+eu+sou+o+Roberto;Second+line+of+text)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://wa.me/5511962060007" target="_blank">
